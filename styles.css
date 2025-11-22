@@ -25,4 +25,16 @@ a {
 
 .profile-image {
   max-width: 100%;
+  border: solid black 5px;
+  border-radius: 20px
+
+}
+
+.full-name {
+  font-family: trebuchet;
+  font-size: 25px
+}
+
+.company {
+  font-size: 15px
 }
